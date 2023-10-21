@@ -9,3 +9,5 @@ telegram: @eComStation
 сайт: https://pythonworld.ru/
 
 sets: https://pythonworld.ru/tipy-dannyx-v-python/mnozhestva-set-i-frozenset.html
+
+tuple: https://pythonworld.ru/tipy-dannyx-v-python/kortezhi-tuple.html
