@@ -7,3 +7,5 @@ telegram: @eComStation
 Книги: https://github.com/eComSt/code2035_mod2/tree/books
 
 сайт: https://pythonworld.ru/
+
+sets: https://pythonworld.ru/tipy-dannyx-v-python/mnozhestva-set-i-frozenset.html
